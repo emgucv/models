@@ -1,0 +1,1 @@
+Multibox model from "https://storage.googleapis.com/download.tensorflow.org/models/mobile_multibox_v1a.zip"
