@@ -1,0 +1,1 @@
+Stylize model from "https://storage.googleapis.com/download.tensorflow.org/models/stylize_v1.zip"
