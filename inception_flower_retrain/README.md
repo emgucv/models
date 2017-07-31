@@ -1,0 +1,1 @@
+Inception model retraining. See http://www.emgu.com/wiki/index.php/Training_Inception_Model 
