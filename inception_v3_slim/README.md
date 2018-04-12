@@ -1,0 +1,1 @@
+Inception model for tensorflow lite from https://storage.googleapis.com/download.tensorflow.org/models/tflite/inception_v3_slim_2016_android_2017_11_10.zip
