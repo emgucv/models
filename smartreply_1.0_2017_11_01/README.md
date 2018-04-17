@@ -1,0 +1,1 @@
+Mobilenet model for tensorflow lite from https://storage.googleapis.com/download.tensorflow.org/models/tflite/smartreply_1.0_2017_11_01.zip
