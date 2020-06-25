@@ -1,0 +1,1 @@
+Resnet model from https://tfhub.dev/tensorflow/resnet_50/classification/1
